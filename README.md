@@ -11,7 +11,7 @@ This Jupyter Notebook shows step by step, the process of visualizing the Histogr
 ## Dependencies
 - PIL
 - glob
-- matplotlib.pyplot
+- matplotlib
 - numpy
 - os
 
