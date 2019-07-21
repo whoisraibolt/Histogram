@@ -1,5 +1,10 @@
 # Histogram
 
+![GitHub language count](https://img.shields.io/github/languages/count/whoisraibolt/Histogram.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/whoisraibolt/Histogram.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/whoisraibolt/Histogram.svg)
+![GitHub](https://img.shields.io/github/license/whoisraibolt/Histogram.svg)
+
 Converts all the images found in a directory to grayscale and plots the Relative Frequency Histogram for each image.
 
 ## Overview
